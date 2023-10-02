@@ -2,7 +2,7 @@ import { Web3ModalOptions } from '../src/client.js'
 import { Web3Modal } from '../src/client.js'
 import { VERSION } from '../src/utils/constants.js'
 
-export type { Web3ModalOptions } from '../src/client.js'
+export { Web3ModalOptions } from '../src/client.js'
 export { EIP6963Connector } from '../src/connectors/EIP6963Connector.js'
 export { defaultWagmiConfig } from '../src/utils/defaultWagmiCoreConfig.js'
 export { walletConnectProvider } from '../src/utils/provider.js'
