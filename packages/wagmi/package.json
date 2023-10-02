@@ -47,6 +47,7 @@
     "@web3modal/scaffold": "3.0.2"
   },
   "peerDependencies": {
+    "@walletconnect/jsonrpc-utils": "1.0.8",
     "@wagmi/core": ">=1",
     "react": ">=17",
     "react-dom": ">=17",
