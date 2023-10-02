@@ -1,4 +1,4 @@
-import type { Web3ModalOptions } from '../src/client.js'
+import { Web3ModalOptions } from '../src/client.js'
 import { Web3Modal } from '../src/client.js'
 import { VERSION } from '../src/utils/constants.js'
 
